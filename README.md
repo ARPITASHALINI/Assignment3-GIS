@@ -4,3 +4,5 @@ This assignment works on the data from Open Data DC covering their Planned Unit 
 
 For our final map, we use Carto. where we have published our map. 
 
+<img src = "DC_PUD">
+
