@@ -6,4 +6,4 @@ For our final map, we use Carto. where we have published our map.
 
 <img src = "DC_PUD.jpg">
 
-The map link can be found [here](https://arpitashalini.carto.com/builder/d29199de-1962-4497-8c35-3272c18e0738/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B38.864439229583375%2C-77.06737518310548%5D%2C%22sw%22%3A%5B38.94966390388528%2C-76.98789596557619%5D%2C%22center%22%3A%5B38.9070643560226%2C-77.02763557434082%5D%2C%22zoom%22%3A13%7D%7D)
+The map link can be found [here.](https://arpitashalini.carto.com/builder/d29199de-1962-4497-8c35-3272c18e0738/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B38.864439229583375%2C-77.06737518310548%5D%2C%22sw%22%3A%5B38.94966390388528%2C-76.98789596557619%5D%2C%22center%22%3A%5B38.9070643560226%2C-77.02763557434082%5D%2C%22zoom%22%3A13%7D%7D)
